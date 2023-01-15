@@ -5,7 +5,9 @@ Connect Four is a two-player connection board game, in which the players choose 
 The project was done as part of the **IT 305 Programming Languages** course at International Burch University, and implemented in the **Scala** programming language.
 
 ## Team members
-- [Harun Kunovac][Ervin Vladić][Tin Radišić]
+- [Harun Kunovac](https://github.com/HarunKu)
+- [Ervin Vladić](https://github.com/ervinvladic)
+- [Tin Radišić](https://github.com/TinRadisic)
 
 ## Running the project
 
@@ -18,3 +20,5 @@ cd 4inarow-scala
 scala 4row.scala
 ```
 Project is done in scala version 2.12.17, so if there is a problem with running the code, this version can be downloaded using cs install scala:2.12.17 command
+
+
